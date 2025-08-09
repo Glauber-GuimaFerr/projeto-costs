@@ -1,7 +1,8 @@
-# Teste
+# Instruções
 
-Teste
+Passo a passo para a execução do sistema
 
-### `teste` fails to minify
+### `start` do projeto
 
-npm install json-server react-icons react-router-dom uuid
+Abra o terminal no diretório do projeto, em seguida digite `npm run backend`.
+Abra outro terminal sem fechar o anterior, em seguida digite `npm run frontend` e permita a conexão na porta.

@@ -9,3 +9,5 @@ root.render(
     <App />
   </React.StrictMode>
 );
+// npm install json-server react-icons react-router-dom uuid
+// package.json start update
