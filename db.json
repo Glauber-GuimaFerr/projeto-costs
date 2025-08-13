@@ -32,6 +32,17 @@
       },
       "cost": 0,
       "services": []
+    },
+    {
+      "id": "5763",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "Mercado municipal",
+      "budget": "80000",
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
