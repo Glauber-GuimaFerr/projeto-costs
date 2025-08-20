@@ -11,10 +11,10 @@
       "cost": 100,
       "services": [
         {
-          "name": "Meu novo serviço",
+          "name": "Meu serviço",
           "cost": "100",
           "description": "Faz isso aqui.",
-          "id": "79ae4e9b-0d45-4a00-bf6d-247c1a8d4e3c"
+          "id": "e329b1a4-47fc-40ee-9de6-bb68e2bdefd3"
         }
       ]
     },
