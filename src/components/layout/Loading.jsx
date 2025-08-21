@@ -1,4 +1,4 @@
-import loading from '../../assets/img/loading.svg';
+import loading from '../../assets/svg/loading.svg';
 
 import styles from './Loading.module.css';
 
